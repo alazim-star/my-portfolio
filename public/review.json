@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "review": "This is an amazing product! Highly recommend it.",
+      "rating": 5,
+      "photo": "https://i.ibb.co.com/hRDpDF2c/images-11.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "review": "It works well, but could be improved in terms of usability.",
+      "rating": 4,
+      "photo": "https://i.ibb.co.com/DgvgVrpJ/download-1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Alice Brown",
+      "review": "Not satisfied with the quality, expected better performance.",
+      "rating": 2,
+      "photo": "https://i.ibb.co.com/yccLvhY3/download-2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bob Johnson",
+      "review": "Great service, will definitely buy again.",
+      "rating": 5,
+      "photo": "https://i.ibb.co.com/5X2qsBLD/download.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Charlie White",
+      "review": "The product was okay, but I had issues with delivery time.",
+      "rating": 3,
+      "photo": "https://i.ibb.co.com/svyHMK2v/images-10.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Emily Green",
+      "review": "I loved it! It exceeded my expectations.",
+      "rating": 5,
+      "photo": "https://i.ibb.co.com/LhRqfNQs/images-6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Daniel Lee",
+      "review": "Good value for the price, but the setup was a bit tricky.",
+      "rating": 4,
+      "photo": "https://i.ibb.co.com/99NZK6WN/images-9.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Clark",
+      "review": "It didn't work as expected, had to return it.",
+      "rating": 1,
+      "photo": "https://i.ibb.co.com/LzMdL8LS/images-7.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Jack Turner",
+      "review": "Amazing quality, definitely worth the investment.",
+      "rating": 5,
+      "photo": "https://i.ibb.co.com/mrqC1s5m/images-8.jpg"
+    }
+    
+    
+  ]
+  

@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "Scholarship Management System",
+      "image": "https://i.ibb.co/Qv0xwPdG/ac.jpg",
+      "description": "A web-based application that helps students apply for scholarships, track applications, and receive updates.",
+      "tech_stack": ["React", "Tailwind CSS", "MongoDB", "Node.js", "Express.js"],
+      "live_link": "https://scholarship-app.web.app",
+      "github_link": "https://github.com/username/scholarship-client",
+      "challenges": "Ensuring secure authentication and smooth application tracking.",
+      "future_plans": "Implement AI-based eligibility prediction and add an admin dashboard."
+    },
+    {
+      "id": 2,
+      "name": "E-Commerce Website",
+      "image": "https://i.ibb.co/YDYZQdh/ecommerce.jpg",
+      "description": "A fully functional e-commerce site with product browsing, cart management, and secure checkout.",
+      "tech_stack": ["Next.js", "Tailwind CSS", "Stripe API", "Firebase Auth"],
+      "live_link": "https://ecommerce-platform.web.app",
+      "github_link": "https://github.com/username/ecommerce-client",
+      "challenges": "Integrating real-time payment processing and handling cart state efficiently.",
+      "future_plans": "Add multi-vendor support and integrate AI-powered recommendations."
+    },
+    {
+      "id": 3,
+      "name": "Job Finder App",
+      "image": "https://i.ibb.co/M8WDCvB/jobfinder.jpg",
+      "description": "A job portal where users can search for jobs, apply online, and track application status.",
+      "tech_stack": ["React", "Redux", "Node.js", "MongoDB", "Express.js"],
+      "live_link": "https://jobfinder-platform.web.app",
+      "github_link": "https://github.com/username/jobfinder-client",
+      "challenges": "Implementing efficient job filtering and resume upload functionality.",
+      "future_plans": "Introduce AI-based job matching and a salary prediction feature."
+    }
+  ]
+  
